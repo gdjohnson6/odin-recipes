@@ -1,0 +1,18 @@
+.card {
+    margin: .5em auto;
+    background-color: rgb(218, 186, 107);
+    border: .3em dashed #fff;
+    color: #fff;
+    height: 20em;
+    width: 20em;
+}
+
+.title {
+    text-align: center;
+    margin: .5em auto 0 auto;
+}
+
+.list, .list a {
+    color:#fff;
+    margin: .2em auto;
+}
